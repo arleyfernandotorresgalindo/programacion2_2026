@@ -1,3 +1,3 @@
 # programacion2_2026
-Este es un repositorio de prueba
+Este es un repositorio de prueba \n
 Usar bajo su propia responsabilidad :) 
